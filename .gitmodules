@@ -1,0 +1,12 @@
+[submodule "blog"]
+	path = blog
+	url = git@github.com:srsns/silverstripe-blog.git
+[submodule "cms"]
+	path = cms
+	url = https://github.com/silverstripe/silverstripe-cms.git
+[submodule "framework"]
+	path = framework
+	url = https://github.com/silverstripe/silverstripe-framework.git
+[submodule "themes/basic"]
+	path = themes/basic
+	url = git@github.com:srsns/blog-theme.git
